@@ -1,0 +1,30 @@
+
+name = atte
+
+default_manual_training = true
+
+travel_delay = -1
+
+explore_delay = -1
+
+rest_delay = -1
+
+auto_sacrifice = true
+
+runrest_safe_poison = 80:100
+
+equip_unequip = true
+
+confirm_butcher = never
+
+easy_eat_chunks = true
+
+auto_eat_chunks = true
+
+autofight_stop = 60
+
+hp_warning = 50
+
+mp_warning = 50
+
+
