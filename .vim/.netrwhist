@@ -1,7 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =5
-let g:netrw_dirhist_1='/cs/fs2/home/attammin/tunnistuspeli/app/views/bacterium_cases'
-let g:netrw_dirhist_2='/cs/fs2/home/attammin/tunnistuspeli/app/views/hypothesis'
-let g:netrw_dirhist_3='/cs/fs2/home/attammin/tunnistuspeli/app/views/outbreaks'
-let g:netrw_dirhist_4='/cs/fs2/home/attammin/tunnistuspeli/app/views/sample_creator'
-let g:netrw_dirhist_5='/cs/fs2/home/attammin/tunnistuspeli/app/views/outbreaks'
